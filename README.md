@@ -1,5 +1,7 @@
 # Concurrent-traffic-simulation-L3
+![Image text](https://github.com/wadeld123/Concurrent-traffic-simulation-L3/raw/master/Concurrent-traffic-simulation-L3/L3.png)
 
+![Image text]：L3 makdown
 Concurrent-traffic-simulation-L3/L3.PNG
     
     Task L3.1 : In class WaitingVehicles, safeguard all accesses to the private members _vehicles and _promises with an appropriate locking mechanism, that will not cause a deadlock situation where access to the resources is accidentally blocked.
