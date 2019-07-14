@@ -1,5 +1,5 @@
 # Concurrent-traffic-simulation-L3
-![Image](https://github.com/wadeld123/Concurrent-traffic-simulation-L3/raw/master/L3.png)
+![Image](https://github.com/wadeld123/Concurrent-traffic-simulation-L3/raw/master/L3.PNG)
 
 ![Image text]：L3 makdown
 
